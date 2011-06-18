@@ -10,6 +10,7 @@ Arbeit
 * Müssen alle Arbeiten?
 * Kann ein Kollektiv den Wert seiner Arbeit selbst definieren?
 * Gibt es Arbeitsteilung?
+
 Besitz
 ------
 * Besitzen alle gleich viel?
@@ -17,6 +18,7 @@ Besitz
  * Wer produziert den Besitz?
  * Wer verwaltet ihn und wie?
 * Wie teilen wir den Gewinn?
+
 foo
 ---
 * Wer darf dem Kollektiv beitreten (Zugang zum Kollektiv)?
@@ -30,6 +32,7 @@ foo
  * Können wir die Welt auch im Großen verändern?
 * Wie groß soll ein Kollektiv sein?
 * Arbeits und/oder Lebensgemeinschaft?
+
 Gedanken
 ========
 * Grundversorgung
@@ -40,6 +43,7 @@ Gedanken
 * Arschloch-Kollektiv
 * Elite-Kollektiv
 * Kommune
+
 Links
 =====
 
