@@ -47,4 +47,20 @@ Gedanken
 Links
 =====
 
+Bücher
+------
+* [Buchladen Schwarze Risse](http://www.schwarzerisse.de/)
 
+Fahrrad
+-------
+
+* [Randspannerei - Fahrradladen/-werkstatt](http://rad-spannerei.de)
+* [Fahrwerk - kurierkollektiv](http://www.fahrwerk-berlin.de/)
+
+Gesundheit
+----------
+* [Praxiskollektiv Kreuzberg](http://praxiskollektiv.de/)
+
+Hausprojekte
+------------
+* 
